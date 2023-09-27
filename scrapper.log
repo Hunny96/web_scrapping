@@ -1,0 +1,32 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.21:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [10/Jul/2023 17:25:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [10/Jul/2023 17:25:10] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [10/Jul/2023 17:25:10] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'samsung', 'Name': 'Rohan Soni', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'Very good product amazing delivery'}, {'Product': 'samsung', 'Name': 'VIJAY KAPOOR', 'Rating': '1', 'CommentHead': 'Did not meet expectations', 'Comment': 'I got defective product....and need so much effort for replacement of product. Finally took a help from national consumer helpline and Flipkart ready for pickup......it was my worst experience of online shopping with flipkart'}, {'Product': 'samsung', 'Name': 'Khushboo Yadav', 'Rating': '4', 'CommentHead': 'Worth the money', 'Comment': 'Very good washing machine for this price.'}, {'Product': 'samsung', 'Name': 'ayush  trivedi', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'awesome'}, {'Product': 'samsung', 'Name': 'Manish X', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Nice quality is machine and good delivery 🚚 OsM product is 5 star rating  great sir 🌹'}, {'Product': 'samsung', 'Name': 'Sandhyarani Jena', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'Its good as expected'}, {'Product': 'samsung', 'Name': 'PRAVEEN KUMAR EEGA', 'Rating': '4', 'CommentHead': 'Wonderful', 'Comment': "Budget Washing machine for middle class family who is don't have time for hand washing,i bought for my mother"}, {'Product': 'samsung', 'Name': 'Neenu Kumar', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Thanks Flipkart, good product,This is a very good washing machine. We can wash clothes up to 8 kg in this. Its speed is also very good and clothes dry very well.'}, {'Product': 'samsung', 'Name': 'Manoj Bhatia ', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'Good in this price...'}, {'Product': 'samsung', 'Name': 'Sudha  Dwibedy', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Happy with the product'}, {'Product': 'samsung', 'Name': 'Sudha  Dwibedy', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Happy with the product'}]
+INFO:werkzeug:172.18.0.2 - - [10/Jul/2023 17:25:19] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [10/Jul/2023 17:25:19] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [10/Jul/2023 17:25:19] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.21:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [10/Jul/2023 17:34:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [10/Jul/2023 17:34:21] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [10/Jul/2023 17:34:21] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone11', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': 'This is amazing at all'}, {'Product': 'iphone11', 'Name': 'Vishnu Ramakrishnan', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Camera is awesomeBest battery backupA performer 👌🏻It will be a real value for money if they provide charger and earphone inbox!'}, {'Product': 'iphone11', 'Name': 'Mukesh Thakor', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'Good product 👌I love iPhone'}, {'Product': 'iphone11', 'Name': 'Manish  Deshlahare', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Very very good'}, {'Product': 'iphone11', 'Name': 'vikash  Yadav', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'It’s really awesome'}, {'Product': 'iphone11', 'Name': 'Dev', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Value for money 😍'}, {'Product': 'iphone11', 'Name': 'Kuldeep Kumar', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'V Good all'}, {'Product': 'iphone11', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Go for iPhone 11 , if confused between iPhone 11 or iPhone 12 mini.Battery Life is enhanced , it worked for complete 2 days without charging it. Explored new features of taking screenshot by clicking on apple logo by Haptic Touch , Portrait mode with stage effect enhanced & slow motion selfie.'}, {'Product': 'iphone11', 'Name': 'Shwarif  Hussain', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'Excellent Phone.'}, {'Product': 'iphone11', 'Name': 'Sonam Lama', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'very good camera quality'}, {'Product': 'iphone11', 'Name': 'Sonam Lama', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'very good camera quality'}]
+INFO:werkzeug:172.18.0.2 - - [10/Jul/2023 17:34:30] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [10/Jul/2023 17:34:30] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [10/Jul/2023 17:34:30] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
